@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>TPSMate's Changelog</title>
+      <link>https://raw.github.com/sorrycc/tpsmate-mac/master/SUAppcast.xml</link>
+      <description></description>
+      <language>zh</language>
+         <item>
+            <title>TPSMate v0.9.1</title>
+            <description><![CDATA[
+                <h2>TPSMate v0.9.1 Changelog</h2>
+                <ul>
+                    <li>[NEW] Test</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 10 Dec 2012 17:43:42 +0800</pubDate>
+            <enclosure url="http://test.taobao.com/projects/tpsmate-mac/TPSMate.zip" sparkle:shortVersionString="0.9.1" sparkle:version="2" sparkle:dsaSignature="MC0CFQCV45CVdWhMMrNrayLqLXRmdydzaQIUb6lVwrlNtREAnmRiMSrZlRlv+sc=" />
+         </item>
+   </channel>
+</rss>
