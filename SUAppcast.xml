@@ -13,8 +13,8 @@
                     <li>[NEW] 测试软件更新.</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 10 Dec 2012 17:59:42 +0800</pubDate>
-            <enclosure url="https://github.com/downloads/sorrycc/tpsmate-mac/TPSMate-v0.9.1.1.zip" sparkle:shortVersionString="0.9.1" sparkle:version="2" sparkle:dsaSignature="MCwCFHaWrrio2u7NV/J9Y6L6MeN0DREAAhQ7V6nX0alpf3NhGTMcjjl3j82qVw==" />
+            <pubDate>Mon, 10 Dec 2012 18:21:11 +0800</pubDate>
+            <enclosure url="https://github.com/downloads/sorrycc/tpsmate-mac/TPSMate-v0.9.2.zip" sparkle:shortVersionString="0.9.2" sparkle:version="3" sparkle:dsaSignature="MC0CFGC4v+HB/M0GwWur7YpN6i32byThAhUAkOTJIDXE7tiTqyx3zcnsZR6g7pM=" />
          </item>
    </channel>
 </rss>
