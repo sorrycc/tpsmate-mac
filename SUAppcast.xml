@@ -14,7 +14,7 @@
                 </ul>
             ]]></description>
             <pubDate>Mon, 10 Dec 2012 17:43:42 +0800</pubDate>
-            <enclosure url="http://test.taobao.com/projects/tpsmate-mac/TPSMate.zip" sparkle:shortVersionString="0.9.1" sparkle:version="2" sparkle:dsaSignature="MC0CFQCV45CVdWhMMrNrayLqLXRmdydzaQIUb6lVwrlNtREAnmRiMSrZlRlv+sc=" />
+            <enclosure url="https://github.com/downloads/sorrycc/tpsmate-mac/TPSMate-v0.9.1.zip" sparkle:shortVersionString="0.9.1" sparkle:version="2" sparkle:dsaSignature="MC0CFQCSnbh7AZzGxILLRuyVdcN3rLDLbgIUPaMCu510CvR2sbIwOlxV9Zt8V8A=" />
          </item>
    </channel>
 </rss>
