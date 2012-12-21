@@ -6,6 +6,17 @@
       <description></description>
       <language>zh</language>
          <item>
+            <title>TPSMate v0.9.4</title>
+            <description><![CDATA[
+                <h2>TPSMate v0.9.4 Changelog</h2>
+                <ul>
+                    <li>[NEW] 增加最近上传列表，点击文件可复制 URL.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 21 Dec 2012 18:15:11 +0800</pubDate>
+            <enclosure url="https://tpsmate-mac.googlecode.com/files/TPSMate-v0.9.4.zip" sparkle:shortVersionString="0.9.4" sparkle:version="5" sparkle:dsaSignature="MC4CFQC4fhI7wO2eYOh6QhYMpf0AQkau5gIVAMstL0EeAYvrMPO5FerQ089HOdOm" />
+         </item>
+         <item>
             <title>TPSMate v0.9.3</title>
             <description><![CDATA[
                 <h2>TPSMate v0.9.3 Changelog</h2>
