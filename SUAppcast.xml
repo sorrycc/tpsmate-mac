@@ -6,6 +6,17 @@
       <description></description>
       <language>zh</language>
          <item>
+            <title>TPSMate v0.9.5</title>
+            <description><![CDATA[
+                <h2>TPSMate v0.9.5 Changelog</h2>
+                <ul>
+                    <li>[FIX] 修正几个 Crash 场景，增加软件稳定性.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 29 Dec 2012 10:21:00 +0800</pubDate>
+            <enclosure url="https://tpsmate-mac.googlecode.com/files/TPSMate-v0.9.5.zip" sparkle:shortVersionString="0.9.5" sparkle:version="6" sparkle:dsaSignature="MC0CFEb26mP3qicpvNW2eOMrDqzrWM9BAhUAgQMVYRMAXSP63sescl7u+U1366M=" />
+         </item>
+         <item>
             <title>TPSMate v0.9.4</title>
             <description><![CDATA[
                 <h2>TPSMate v0.9.4 Changelog</h2>
