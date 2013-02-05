@@ -5,6 +5,18 @@
       <link>https://raw.github.com/sorrycc/tpsmate-mac/master/SUAppcast.xml</link>
       <description></description>
       <language>zh</language>
+
+         <item>
+            <title>TPSMate v0.9.6</title>
+            <description><![CDATA[
+                <h2>TPSMate v0.9.5 Changelog</h2>
+                <ul>
+                    <li>[ADD] 加入 AppleScript 支持。(用于上传选中图片的 AppleScript: https://gist.github.com/sorrycc/4712160)</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 5 Jan 2013 12:24:00 +0800</pubDate>
+            <enclosure url="https://tpsmate-mac.googlecode.com/files/TPSMate-v0.9.6.zip" sparkle:shortVersionString="0.9.6" sparkle:version="7" sparkle:dsaSignature="MCwCFEx+pPUkwG/RI77WtxG03RXitOIWAhRahf+F4oLl1tEK4VHADzyuS2z2bg==" />
+         </item>
          <item>
             <title>TPSMate v0.9.5</title>
             <description><![CDATA[
