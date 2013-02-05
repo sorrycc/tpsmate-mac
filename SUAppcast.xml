@@ -8,7 +8,7 @@
          <item>
             <title>TPSMate v0.9.7</title>
             <description><![CDATA[
-                <h2>TPSMate v0.9.5 Changelog</h2>
+                <h2>TPSMate v0.9.7 Changelog</h2>
                 <ul>
                     <li>[FIX] 默认隐藏 Dock 图标。</li>
                 </ul>
@@ -19,7 +19,7 @@
          <item>
             <title>TPSMate v0.9.6</title>
             <description><![CDATA[
-                <h2>TPSMate v0.9.5 Changelog</h2>
+                <h2>TPSMate v0.9.6 Changelog</h2>
                 <ul>
                     <li>[ADD] 加入 AppleScript 支持。(用于上传选中图片的 AppleScript: https://gist.github.com/sorrycc/4712160)</li>
                 </ul>
